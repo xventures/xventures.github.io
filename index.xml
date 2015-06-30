@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title> on XVentures </title>
+    <link>http://localhost:1313/</link>
+    <language>en-us</language>
+    <author>XVentures authors</author>
+    <updated>2015-06-29 16:07:59 -0700 PDT</updated>
+    
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 29 Jun 2015 16:07:59 PDT</pubDate>
+      <author>Alexander Ivanov</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hello World!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
