@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title> on XVentures </title>
-    <link>http://xventures.github.io/</link>
+      <title>How-Google-Works on XVentures </title>
+    <link>http://xventures.github.io/how-google-works/</link>
     <language>zh-cn</language>
     <author>XVentures authors</author>
     <updated>2015-07-04 11:00:30 -0700 PDT</updated>
@@ -27,16 +27,6 @@ Google Cofounder and CEO
 &lt;p&gt;在现实中，许多公司安于一直做同样的事情，只要有点渐进的改进，他们就心满意足。长此以往，这种渐进风格就会走进死胡同，在科技行业更是如此，因为科技进步往往是革命性的，而不是渐进的。你只能强迫自己把赌注都押到未来而不是满足于当下。这就是我们投入自动驾驶汽车、高空气球互联网等许多超前领域的原因。今天，我们不会对包含全球地图数据和大街小巷的街景照片信息的 Google Maps 大惊小怪，我们已经很难想象，当我们开始这个项目的时候，许多人觉得这个目标根本不可能实现。今天看似过于超前的疯狂押注，没过几年就会变得平凡。&lt;/p&gt;
 
 &lt;p&gt;以上是我认为很重要的一些原则，而你能在这本书之后的部分发现更多。我衷心希望你能从这些原则中得到启发，去完成你自己的「不可能」！&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>http://xventures.github.io/about/</link>
-      <pubDate>Mon, 29 Jun 2015 16:07:59 PDT</pubDate>
-      <author>XVentures authors</author>
-      <guid>http://xventures.github.io/about/</guid>
-      <description>&lt;p&gt;Hello World!&lt;/p&gt;
 </description>
     </item>
     
