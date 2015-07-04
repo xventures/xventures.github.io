@@ -30,15 +30,5 @@ Google Cofounder and CEO
 </description>
     </item>
     
-    <item>
-      <title>about</title>
-      <link>http://xventures.github.io/about/</link>
-      <pubDate>Mon, 29 Jun 2015 16:07:59 PDT</pubDate>
-      <author>XVentures authors</author>
-      <guid>http://xventures.github.io/about/</guid>
-      <description>&lt;p&gt;Hello World!&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
