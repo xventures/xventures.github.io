@@ -3,7 +3,7 @@
   <channel>
       <title> on XVentures </title>
     <link>http://xventures.github.io/</link>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <author>XVentures authors</author>
     <updated>2015-06-29 16:07:59 -0700 PDT</updated>
     
@@ -11,7 +11,7 @@
       <title>about</title>
       <link>http://xventures.github.io/about/</link>
       <pubDate>Mon, 29 Jun 2015 16:07:59 PDT</pubDate>
-      <author>Alexander Ivanov</author>
+      <author>XVentures authors</author>
       <guid>http://xventures.github.io/about/</guid>
       <description>&lt;p&gt;Hello World!&lt;/p&gt;
 </description>
